@@ -7,5 +7,6 @@
     "pardjs",
     "prestart"
   ],
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "jshint.enable": false
 }
