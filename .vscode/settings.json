@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "backend",
+    "fastify",
+    "formbody",
+    "nestjs",
+    "pardjs",
+    "prestart"
+  ],
+  "editor.formatOnSave": true
+}
