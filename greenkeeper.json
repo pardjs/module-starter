@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "backend/module-starter-backend/package.json",
+        "fontend-admin/module-starter-frontend-admin/package.json"
+      ]
+    }
+  }
+}
